@@ -1,0 +1,15 @@
+﻿  Sort.c
+  Source.c
+  Generating Code...
+D:\Code\C\Term 2\YA_Project2\YA_Project2\issorted\Sort.c(42,7): warning C4013: 'ceil' undefined; assuming extern returning int
+D:\Code\C\Term 2\YA_Project2\YA_Project2\issorted\Sort.c(42,21): warning C4013: 'floor' undefined; assuming extern returning int
+D:\Code\C\Term 2\YA_Project2\YA_Project2\issorted\Sort.c(62,7): warning C4013: 'strcmp' undefined; assuming extern returning int
+D:\Code\C\Term 2\YA_Project2\YA_Project2\issorted\Source.c(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  D:\Code\C\Term 2\YA_Project2\YA_Project2\issorted\Source.c(1,1):
+  '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+D:\Code\C\Term 2\YA_Project2\YA_Project2\issorted\Source.c(30,16): warning C4013: 'correctStrings' undefined; assuming extern returning int
+D:\Code\C\Term 2\YA_Project2\YA_Project2\issorted\Source.c(111,16): warning C4013: 'correctReal' undefined; assuming extern returning int
+D:\Code\C\Term 2\YA_Project2\YA_Project2\issorted\Source.c(142,16): warning C4013: 'correctNatural' undefined; assuming extern returning int
+D:\Code\C\Term 2\YA_Project2\YA_Project2\issorted\Source.c(193,16): warning C4013: 'correctLines' undefined; assuming extern returning int
+  issorted.vcxproj -> D:\Code\C\Term 2\YA_Project2\YA_Project2\x64\Debug\issorted.exe
